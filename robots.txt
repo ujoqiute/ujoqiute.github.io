@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ujoqiute.github.io/sitemap_index.ujoqiute
